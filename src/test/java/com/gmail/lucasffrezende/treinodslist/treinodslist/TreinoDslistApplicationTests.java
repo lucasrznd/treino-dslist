@@ -1,4 +1,4 @@
-package com.gmail.lucasffrezende.treinodslist;
+package com.gmail.lucasffrezende.treinodslist.treinodslist;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
